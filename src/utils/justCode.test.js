@@ -5,5 +5,4 @@ describe("test function addNums", () => {
         expect(addNums(2,2)).toBe(4);
         expect(typeof addNums(3.3,3.3) === "number").toBeTruthy();
     });
-
 })

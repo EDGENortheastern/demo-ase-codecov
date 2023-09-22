@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![codecov](https://codecov.io/gh/EDGENortheastern/demo-ase-codecov/graph/badge.svg?token=LLPCqGF0R2)](https://codecov.io/gh/EDGENortheastern/demo-ase-codecov)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/902dc812-614c-4e64-92df-67721a087755/deploy-status)](https://app.netlify.com/sites/leafy-torrone-2dc26a/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
